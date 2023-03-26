@@ -1,0 +1,68 @@
+Respostas para o exercício 3:
+
+a) 1, 3, 5, 7, _____
+=> Lógica: Consiste numa sequencia de números impares, onde para gera-la, podemos usar a fórmula:
+x = 1
+printa x
+faca {
+x = 2 + x
+printa x
+}
+Resultados printados: 1,3,5,7,9,...
+
+=> Próximo elemento: 9
+
+b) 2, 4, 8, 16, 32, 64, _____
+=> Lógica: Consiste numa sequencia de potências de 2, onde para gera-la, podemos usar a fórmula:
+y = 1
+faca {
+x = 2^y
+y += 1
+printa x
+}
+Resultados printados: 2,4,8,16,32,64,128,...
+
+=> Próximo elemento: 128
+
+c) 0, 1, 4, 9, 16, 25, 36, _____
+=> Lógica: Consiste numa sequencia de resultados de números elevados ao quadrado, onde para gera-la, podemos usar a fórmula:
+y = 0
+faca {
+x = y^2
+y += 1
+printa x
+}
+Resultados printados: 0,1,4,9,16,25,36,49,...
+
+=> Próximo elemento: 49
+
+d) 4, 16, 36, 64, _____
+=> Lógica: Consiste numa sequencia de resultados de números PARES elevados ao quadrado, onde para gera-la, podemos usar a fórmula:
+y = 2
+faca {
+x = y^2
+y += 2
+printa x
+}
+Resultados printados: 4,16,36,64,100,...
+
+=> Próximo elemento: 100
+
+e) 1, 1, 2, 3, 5, 8, _____
+=> Lógica: Consiste na sequencia de Fibonacci, com os resultados da soma dos dois números anteriores, onde para gera-la, podemos usar a fórmula:
+z,x = 0
+y = 1
+printa y
+faca{
+x = y + z
+z = y
+y = x
+printa x
+}
+Resultados printados: 1,1,2,3,5,8,13,...
+
+=> Próximo elemento: 13
+
+f) 2,10, 12, 16, 17, 18, 19, _____
+=> Lógica: Consiste em números com seu nome no idioma português brasileiro, iniciando com a letra D.
+=> Próximo elemento: 200 (Duzentos)

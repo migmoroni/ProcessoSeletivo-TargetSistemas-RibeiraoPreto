@@ -1,0 +1,15 @@
+Dados extraídos do texto:
+Dois veículos saem em posições opostas, de uma mesma rodovia, entre duas cidades.
+Distancia entre Ribeirão Preto e Franca: 100 km
+Carro: Sai de Ribeirão, com velocidade constante de 110 km/h, sem atrasos.
+Caminhão: Sai de Franca, com velocidade constante de 80 km/h, com atraso em 2 pedagios, de 5 min cada, somando 10 min.
+
+Questão do texto:
+Procura-se saber em que quilometragem entre as duas cidades, ambos os veiculos estarão passando lado a lado.
+
+OBS:
+Não mencionado no texto onde fica os 2 pedágios, o que impede de saber com exatidão, o local onde os dois veiculos cruzarão na rodovia.
+Dessa forma, darei 2 resultados:
+
+1 - Considerarei em primeiro momento, somar 10 min cheios ao tempo do caminhão.
+2 - Em segundo, calcularei sem a soma, para dai juntado os dois valores, termos um intervalo mais preciso de onde cruzarão.
