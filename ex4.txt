@@ -5,11 +5,12 @@ Carro: Sai de Ribeirão, com velocidade constante de 110 km/h, sem atrasos.
 Caminhão: Sai de Franca, com velocidade constante de 80 km/h, com atraso em 2 pedagios, de 5 min cada, somando 10 min.
 
 Questão do texto:
-Procura-se saber em que quilometragem entre as duas cidades, ambos os veiculos estarão passando lado a lado.
+Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
 
-OBS:
-Não mencionado no texto onde fica os 2 pedágios, o que impede de saber com exatidão, o local onde os dois veiculos cruzarão na rodovia.
-Dessa forma, darei 2 resultados:
+Resolução:
+Como os veiculos estão saindo de posições contrárias, quando eles se cruzarem, um deles seguirá caminho a Ribeirão e o outro a Franca.
+Como o caminhão sai de Franca e vai a Ribeirão e carro sai de Ribeirão e vai a Franca, logo, será o caminhão, que ao ao cruzar com o carro, passará a ser o veiculo mais próximo da cidade de Ribeirão Preto.
 
-1 - Considerarei em primeiro momento, somar 10 min cheios ao tempo do caminhão.
-2 - Em segundo, calcularei sem a soma, para dai juntado os dois valores, termos um intervalo mais preciso de onde cruzarão.
+Como não se pediu distancias para se encontrar, não há porque realizar calculos, sendo apenas necessário o uso da lógica acima.
+
+Resposta final: Caminhão.
